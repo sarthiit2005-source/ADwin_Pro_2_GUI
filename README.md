@@ -506,7 +506,7 @@ a failed zero command is not confirmation of zero voltage.
 
 **## Documentation and verification**
 
-Compile `docs/driver_manual.tex` in a LaTeX editor or upload it to Overleaf.
+Open User_Manual.pdf.
 
 It is standalone and needs no external images. Add the four screenshots above
 
