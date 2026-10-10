@@ -14,7 +14,7 @@ DAC channels.
 
 For standalone measurements and the driver's public operations, see the
 
-[driver user manual](docs/driver_manual.tex). This README covers installation
+[driver user manual](ADwin_Pro2_Generic_Purpose_Driver/User_Manual.pdf). This README covers installation
 
 and GUI use. Instructions for writing GUI-compatible programs are available
 
